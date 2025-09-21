@@ -6,7 +6,7 @@ write a program to find the areas of a triangle, square and a rectangle.
 
 [program](./areas.c)
 
-## program 2 - Electricity bill
+## Program 2 - Electricity Bill
 
 write a program for electricity bill preparation, using the below data:
 
@@ -18,3 +18,28 @@ write a program for electricity bill preparation, using the below data:
 | 601 and above | 390 + 1₹/excess unit |
 
 [program](./billprep.c)
+
+## Program 3 - Quadratic Equation Solver 
+
+write a program to find the roots of a quadratic equation
+
+[program](./quadratic.c)
+
+> [!IMPORTANT]
+> Compile with the flag -lm \
+> ie link math library \
+> `gcc quadratic.c -lm`
+
+## program 4 - Menu Driven Calculator
+
+write a menu driven calculator program using switch statement
+
+[program](./calculuator.c)
+
+## Program 5 - Sum of digits
+
+write a program to find the sum of digits of a given small integer
+
+[program](./sumofdigits.c)
+
+
