@@ -1,12 +1,22 @@
-# miscellaneous C programs
+# Miscellaneous C Programs
+
+### Table of Contents
+
+1. [Areas](#prog1) 
+2. [Electricity Bill](#prog2) 
+3. [Quadratic Equation Solver](#prog3) 
+4. [Menu Driven Calculator](#prog4) 
+5. [Sum of Digits](#prog5) 
 
 ## Program 1 - Areas
+<a name="prog1"></a>
 
 write a program to find the areas of a triangle, square and a rectangle.
 
 [program](./areas.c)
 
 ## Program 2 - Electricity Bill
+<a name="prog2"></a>
 
 write a program for electricity bill preparation, using the below data:
 
@@ -20,6 +30,7 @@ write a program for electricity bill preparation, using the below data:
 [program](./billprep.c)
 
 ## Program 3 - Quadratic Equation Solver 
+<a name="prog3"></a>
 
 write a program to find the roots of a quadratic equation
 
@@ -31,12 +42,14 @@ write a program to find the roots of a quadratic equation
 > `gcc quadratic.c -lm`
 
 ## program 4 - Menu Driven Calculator
+<a name="prog4"></a>
 
 write a menu driven calculator program using switch statement
 
 [program](./calculuator.c)
 
-## Program 5 - Sum of digits
+## Program 5 - Sum of Digits
+<a name="prog5"></a>
 
 write a program to find the sum of digits of a given small integer
 
