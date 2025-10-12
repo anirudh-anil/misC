@@ -25,9 +25,7 @@ int main(){
             cosine += term;
         }
         printf("%lf\n", cosine);
-
     }
     else printf("Invalid choice\n");
- 
     return 0;
 }
