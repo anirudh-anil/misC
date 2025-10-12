@@ -5,7 +5,7 @@ int main(){
     int i;
     printf("Enter the range (inclusive) seperated by a space: ");
     scanf(" %ld %ld", &a, &b);
-    if (a<0 || b<0 || a>b){
+    if (a>b){
         printf("Check Input\n");
         return 0;
     }
