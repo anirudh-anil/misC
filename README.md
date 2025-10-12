@@ -10,6 +10,7 @@
   - [program 4 - Menu Driven Calculator](#program-4---menu-driven-calculator)
   - [Program 5 - Sum of Digits](#program-5---sum-of-digits)
   - [Program 6 - Primes in a Given Range](#program-6---primes-in-a-given-range)
+  - [program 7 - Sine and Cosine Series](#program-7---sine-and-cosine-series)
 
 ## Program 1 - Areas
 
@@ -58,4 +59,16 @@ write a program to find the sum of digits of a given small integer
 write a program to print out the prime numbers in a given range of numbers
 [program](./primes.c)
 
+## program 7 - Sine and Cosine Series
+
+write a program to print sine and cosine values of an angle using taylor expansion/maclaurin series of them, given the angle measurement and number of terms to use.
+```math
+\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} \cdots = \displaystyle\sum_{i=0}^{\infty}\frac{(-1)^i}{(2i+1)!}x^{2i+1} 
+```
+
+$$\cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} \cdots = \displaystyle\sum_{i=0}^{\infty}\frac{(-1)^i}{(2i)!}x^{2i}$$
+
+
+
+[program](./sine_cosine.c)
 
