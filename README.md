@@ -12,6 +12,10 @@
   - [Program 6 - Primes in a Given Range](#program-6---primes-in-a-given-range)
   - [Program 7 - Sine and Cosine Series](#program-7---sine-and-cosine-series)
   - [Program 8 - Pascal's Triangle](#program-8---pascals-triangle)
+  - [Program 9 - String Manipulation](#program-9---string-manipulation)
+  - [Program 10 - Arranging Names](#program-10---arranging-names)
+  - [Program 11 - Mean, Variance and Standard Deviation](#program-11---mean-variance-and-standard-deviation)
+  - [Program 12 - Sequential and Binary Search](#program-12---sequential-and-binary-search)
 
 ## Program 1 - Areas
 
@@ -78,3 +82,27 @@ $$\cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} \cdots = \displaystyle\sum_{i=0}
 write a program that displays the pascals triangle, given the number of rows
 
 [program](./pascals_triangle.c)
+
+## Program 9 - String Manipulation
+
+write a program to perform string manipulations like concatenations, comparisons, find the length and string copy without using the library functions
+
+[program](./string.c)
+
+## Program 10 - Arranging Names
+
+write a program to arrange names in alphabetical order
+
+[program](./names.c)
+
+## Program 11 - Mean, Variance and Standard Deviation
+
+write a program to calculate the mean, variance and standard  deviation of given numbers using functions
+
+[program](./mean_variance_sd.c)
+
+## Program 12 - Sequential and Binary Search 
+
+write a program to perform sequential and binary search using functions
+
+[program](./search.c)
