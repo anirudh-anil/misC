@@ -12,10 +12,13 @@
   - [Program 6 - Primes in a Given Range](#program-6---primes-in-a-given-range)
   - [Program 7 - Sine and Cosine Series](#program-7---sine-and-cosine-series)
   - [Program 8 - Pascal's Triangle](#program-8---pascals-triangle)
-  - [Program 9 - String Manipulation](#program-9---string-manipulation)
-  - [Program 10 - Arranging Names](#program-10---arranging-names)
-  - [Program 11 - Mean, Variance and Standard Deviation](#program-11---mean-variance-and-standard-deviation)
-  - [Program 12 - Sequential and Binary Search](#program-12---sequential-and-binary-search)
+  - [Program 9 - Sum and Average of Array Elements](#program-9---sum-and-average-of-array-elements)
+  - [Program 10 - Bubble Sort](#program-10---bubble-sort)
+  - [Program 11 - Matrix Calc](#program-11---matrix-calc)
+  - [Program 12 - String Manipulation](#program-12---string-manipulation)
+  - [Program 13 - Arranging Names](#program-13---arranging-names)
+  - [Program 14 - Mean, Variance and Standard Deviation](#program-14---mean-variance-and-standard-deviation)
+  - [Program 15 - Sequential and Binary Search](#program-15---sequential-and-binary-search)
 
 ## Program 1 - Areas
 
@@ -83,25 +86,43 @@ write a program that displays the pascals triangle, given the number of rows
 
 [program](./pascals_triangle.c)
 
-## Program 9 - String Manipulation
+## Program 9 - Sum and Average of Array Elements
+
+write a program to print the sum and average of elements in an array
+
+[program](./sum_and_avg_of_elements.c)
+
+## Program 10 - Bubble Sort
+
+write a program to sort the give numbers using bubble sort
+
+[program](./bsort.c)
+
+## Program 11 - Matrix Calc
+
+write a program to perform matrix addition and matrix multiplication
+
+[program](./matrix.c)
+
+## Program 12 - String Manipulation
 
 write a program to perform string manipulations like concatenations, comparisons, find the length and string copy without using the library functions
 
 [program](./string.c)
 
-## Program 10 - Arranging Names
+## Program 13 - Arranging Names
 
 write a program to arrange names in alphabetical order
 
 [program](./names.c)
 
-## Program 11 - Mean, Variance and Standard Deviation
+## Program 14 - Mean, Variance and Standard Deviation
 
 write a program to calculate the mean, variance and standard  deviation of given numbers using functions
 
 [program](./mean_variance_sd.c)
 
-## Program 12 - Sequential and Binary Search 
+## Program 15 - Sequential and Binary Search 
 
 write a program to perform sequential and binary search using functions
 
